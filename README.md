@@ -10,7 +10,7 @@ I have created overall report of my college induction program by using Html
 | Class | Year | Scores |
 | ---- | ---- | ---- |
 | 10th | 2022 | 89.4℅ |
-| 12th | 2024 | 90.6℅ |
+| 12th | 2024 | 91℅ |
 
 # GNDEC INDUCTION PROGRAM 2024
 
