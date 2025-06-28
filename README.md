@@ -1,9 +1,5 @@
 # Gndec_Induction_Program_Report
 
-` ` ` ruby
-ubuntu@ubuntu:~$ pwd/home/user/Documents
-ubuntu@ubuntu
-` ` `
 
 I have created overall report of my college induction program by using Html 
 <h2>My Introduction</h2>
