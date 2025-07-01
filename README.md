@@ -18,15 +18,15 @@ I have created overall report of my college induction program.
 
 <H2> | Date | 10-07-24 | </H2>
     
-<p>Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We started our day by praying at college Gurudwara Sahib.After taking guru ka langar we went to college auditorium. Our Principle sir of Guru Nanak Dev Engineering College encouraged us on the first day of our college. Old principal sir of college and many other faculty members motivated us. One of the guest words “no tension and full attention” stuck into my head. Various other alumni also share there experiences with us. We enjoy a lot and gain so much knowledge on our first day of college.</p> 
+<p>Today was our first day at Guru Nanak Dev Engineering College Ludhiana. We started our day by praying at college Gurudwara Sahib.After taking guru ka langar we went to college auditorium. Our Principle sir of Guru Nanak Dev Engineering College encouraged us on the first day of our college. Old principal sir of college and many other faculty members motivated us. One of the guest words “no tension and full attention” stuck into my head. Various other alumni also share their experiences with us. We enjoy a lot and gain so much knowledge on our first day of college.</p> 
 
 <h2>| Date | 11-07-24 |</h2>
 <ul>
 <li>Today we got to know about our college. Our Professors provided us detailed information about the college.</li>
 <li>They gave us information about various national and international societies and clubs.</li>
-<li>They told us about the activities going in college, how many canteen are in college, about playgrounds, dispensary, banks, hostel facilities, Acitivies and events going in college.</li>
+<li>They told us about the activities going in college, how many canteen are there in college, about playgrounds, dispensary, banks, hostel facilities, Acitivies and events going in the college.</li>
 <li>They also told us about the various scholarship schemes offered by the college.</li>
-<li>They also motivated us for our college journey.</li>
+<li>They motivated us for our college journey as well.</li>
 </ul>
     
 <h2>| Date | 12-07-24 |</h2>
@@ -75,7 +75,7 @@ I have created overall report of my college induction program.
 
 | S.no. | Date | Resource Person | Description |
 | ---- | ---- | ----| ----|
-| 01 | 18-07-24	| Manjot Mam | <h4>UHV</h4> Our today's UHV lecture was taken by Manjot Mam.She taught us about the co-existence of Self and Body. She told us about the concept of sources of imagination and differentiate between the requirements of self and body. Then she told us about harmony in family and told us about value education.|
+| 01 | 18-07-24	| Manjot Mam | <h4>UHV</h4> Our today's UHV lecture was taken by Manjot Mam.She taught us about the co-existence of Self and Body. She told us about the concept of sources of imagination and differentiate between the requirements of self and body. Then she told us about harmony in family and about value education.|
 | 02 | 18-07-24	| By Seniors | <h4>PEER INTERACTION</h4> In this lecture our seniors gave us peer interaction about our college.|
 | 03 | 18-07-24	| Dr. Harwinder Singh | <h4>NCC</h4> Sir told all about NCC and also inspired us about it's significance values.He explained us that NCC (National Cadet Corps) is a Tri-Services Organisation comprising the Army, Navy and Air Force.|
 | 04 | 18-07-24	| Jasvir Singh Grewal | <h4>NSS</h4> NSS Er. Jasvir Singh Grewal introduces us about the purpose of NSS society and the work being done by the NSS society. NSS provides the opportunity to serve the society and to save the environment by planting trees and cleaning waste.|
@@ -93,6 +93,6 @@ Now it's time to visit our CS department. One of our professor visit with us to 
 
 | S.no. | Date | Resource Person | Description |
 | ---- | ---- | ---- | ---- |
-| 01 | 22-07-24 | Dr.SB Singh |This session gave me so much knowledge about myself.Yes...Sir told us how to understand ourselve,how to know yourself.He told us to write on a paper - your name,branch,section,roll no, previous school,12th percentage,address then he told us to write our weakness then our strengths. He told us to write our dream that what we what to do in our life. Then he collected all the pages. Then he asked from us that is anyone write about his/her dream, weekness, strength? He said that you have to do this and you have to write daily something about your day. Because from this you'll learn who you are and what you want to do and what you actually done. This made me so much motivated and from his one session I have started to write a diary. Overall this session is amazing.|
+| 01 | 22-07-24 | Dr.SB Singh |This session gave me so much knowledge about myself.Yes...Sir told us how to understand ourselve,how to know yourself.He told us to write on a paper - your name,branch,section,roll no, previous school,12th percentage,address then he told us to write our weakness then our strengths. He told us to write our dream that what we want to do in our life. Then he collected all the pages. Then he asked from us that is anyone write about his/her dream, weekness, strength? He said that you have to do this and you have to write daily something about your day. Because from this you'll learn who you are and what you want to do and what you have actually done. This made me so much motivated and from his one session I have started to write a diary. Overall this session is amazing.|
 | 02 | 22-07-24	| Dr. Pushpinder Singh | Sir belongs to a family in which family members are mostly doctors. Sir taught us about how we get to know about our learning method.In which method we get things easily.He told us that we have to be strong in any situation whether we were facing a failure.We have to ventilate our minds ,share our problems with any of our dear ones.Just to refresh our mind.|
 | 03 | 22-07-24	| Causmic Club |	Now our seniors told us everything about causmic club and they also share a link for becoming a member of this club.|
